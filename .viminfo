@@ -21,13 +21,24 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/yamals/del
+'0  22  35  ~/authentication-service-deploy.yaml
+'1  2  0  ~/yamals/del
 
 # Jumplist (newest first):
+-'  22  35  ~/authentication-service-deploy.yaml
+-'  1  0  ~/authentication-service-deploy.yaml
+-'  2  0  ~/yamals/del
+-'  1  0  ~/yamals/del
 -'  2  0  ~/yamals/del
 -'  1  0  ~/yamals/del
 
 # History of marks within files (newest to oldest):
+
+> ~/authentication-service-deploy.yaml
+	"	22	35
+	^	22	36
+	.	22	35
+	+	22	35
 
 > ~/yamals/del
 	"	2	0

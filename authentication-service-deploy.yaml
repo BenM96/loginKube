@@ -19,6 +19,6 @@ spec:
         image: docker.io/benm96/authentication-service
         env:
         - name: ACTIVATION_LINK
-          value: http://34.90.112.193/authentication/api/activate
+          value: http://34.65.110.45/authentication/api/activate
         ports:
         - containerPort: 3000
