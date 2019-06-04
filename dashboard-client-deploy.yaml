@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: dashboard-client
-        image: docker.io/nilmontia/dashboard-client
+        image: docker.io/benm96/dashboard-client
         ports:
         - containerPort: 8080
