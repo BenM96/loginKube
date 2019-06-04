@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: dashboard-service
-        image: docker.io/nilmontia/dashboard-service
+        image: docker.io/benm96/dashboard-service
         ports:
         - containerPort: 3000
