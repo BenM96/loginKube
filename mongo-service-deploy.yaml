@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: mongo-service
-        image: docker.io/benm96/mongo-service
+        image: docker.io/nilmontia/mongo-service
         ports:
         - containerPort: 3000
