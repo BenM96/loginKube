@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: session-token-service
-        image: docker.io/nilmontia/session-token-service
+        image: docker.io/benm96/session-token-service
         ports:
         - containerPort: 3000
