@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: account-service
-        image: docker.io/nilmontia/account-service
+        image: docker.io/benm96/account-service
         ports:
         - containerPort: 3000
