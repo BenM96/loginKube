@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: email-service
-        image: docker.io/nilmontia/aes-encryption-service
+        image: docker.io/benm96/aes-encryption-service
         ports:
         - containerPort: 3000
