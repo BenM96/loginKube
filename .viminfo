@@ -8,8 +8,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
 :q
+:wq
 
 # Search String History (newest to oldest):
 
@@ -20,19 +20,26 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	g
 
 # File marks:
-'0  3  7  ~/.gitignore
-'1  1  5  ~/README.md
-'2  21  0  ~/jenk/04_deployment.yaml
-'3  1  0  ~/jenk/01_service_account.yaml
-'4  1  0  ~/jenk/docker-compose.yaml
-'5  22  35  ~/authentication-service-deploy.yaml
-'6  2  0  ~/yamals/del
+'0  1  0  ~/.gitignore
+'1  5  4  ~/.gitignore
+'2  4  0  ~/.gitignore
+'3  3  7  ~/.gitignore
+'4  1  5  ~/README.md
+'5  21  0  ~/jenk/04_deployment.yaml
+'6  1  0  ~/jenk/01_service_account.yaml
+'7  1  0  ~/jenk/docker-compose.yaml
+'8  22  35  ~/authentication-service-deploy.yaml
+'9  2  0  ~/yamals/del
 
 # Jumplist (newest first):
--'  3  7  ~/.gitignore
 -'  1  0  ~/.gitignore
+-'  5  4  ~/.gitignore
+-'  4  0  ~/.gitignore
+-'  3  7  ~/.gitignore
 -'  1  5  ~/README.md
 -'  21  0  ~/jenk/04_deployment.yaml
 -'  1  0  ~/jenk/04_deployment.yaml
@@ -126,18 +133,16 @@
 -'  2  0  ~/yamals/del
 -'  1  0  ~/yamals/del
 -'  2  0  ~/yamals/del
--'  1  0  ~/yamals/del
--'  22  35  ~/authentication-service-deploy.yaml
--'  1  0  ~/authentication-service-deploy.yaml
--'  2  0  ~/yamals/del
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	3	7
-	^	3	8
-	.	3	7
-	+	3	7
+	"	1	0
+	^	5	5
+	.	5	4
+	+	3	8
+	+	4	10
+	+	5	4
 
 > ~/README.md
 	"	1	5
