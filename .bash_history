@@ -106,3 +106,29 @@ sudo kubectl apply -f $(ls *.yaml)
 ls
 docker ps
 sudo su root
+kubectl get pods
+ls
+kubectl apply -f .
+kubectl get pods
+kubectl get serveces
+kubectl get services
+vim authentication-service-deploy.yaml 
+kubectl apply -f .
+git init
+git push https://github.com/BenM96/loginKube
+git add .
+git commit -m "all working, hurra"
+git push https://github.com/BenM96/loginKube
+ls
+mkdir jenk
+cd jenk
+cd ..
+ls
+mkdir login
+mv * ./login/
+mv *.yaml ./login/
+ls
+cd login/
+mv jenk ..
+cd ..
+ls
